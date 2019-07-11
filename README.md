@@ -8,10 +8,10 @@
   <h3 align="center">SnapBot</h3>
 
   <p align="center">
-    A fully automated gesture-based bot that accumulates SnapChat points over time
+    A fully automated gesture-based bot that accumulates Snapchat score over time
     <br />
     <br />
-    <a href="https://github.com/curv3ball/snapbot">Discord</a>
+    <a href="https://github.com/curv3ball/snapbot">Community Discord</a>
     ·
     <a href="https://github.com/curv3ball/snapbot/issues">Report Bug</a>
     ·
