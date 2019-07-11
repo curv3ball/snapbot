@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg">
+
 <br />
 <p align="center">
   <a href="https://github.com/curv3ball/snapbot">
@@ -12,8 +12,7 @@
   <p align="center">
     A fully automated gesture-based bot that accumulates Snapchat score over time
     <br />
-    <br />
-    <a href="https://github.com/curv3ball/snapbot">Community Discord</a>
+	<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg">
   </p>
 </p>
 
