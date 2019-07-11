@@ -5,7 +5,7 @@
     <img src="https://cdn1.iconfinder.com/data/icons/snapchat-ui-colored-2/48/JD-02-512.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SnapBot</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
