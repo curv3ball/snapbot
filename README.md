@@ -13,8 +13,6 @@
     <br />
     <a href="https://github.com/curv3ball/snapbot">Our Discord</a>
     ·
-    <a href="https://github.com/curv3ball/snapbot/issues">Report Bug</a>
-    ·
     <a href="https://github.com/curv3ball/snapbot/issues">Request Feature</a>
   </p>
 </p>
