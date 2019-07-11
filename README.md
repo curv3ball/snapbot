@@ -1,4 +1,6 @@
 <!-- PROJECT LOGO -->
+![GitHub All Releases](https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg)
+
 <br />
 <p align="center">
   <a href="https://github.com/curv3ball/snapbot">
@@ -21,7 +23,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  - [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
