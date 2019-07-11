@@ -46,9 +46,9 @@ The initial goal of the bot was to be able to send pictures to specific users in
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [LUA](https://www.lua.org)
+* [AutoTouch](https://autotouch.net)
+* [Donations](https://www.paypal.me/bigboyxvc)
 
 
 
