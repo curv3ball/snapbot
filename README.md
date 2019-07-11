@@ -18,8 +18,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Build Status][build-shield]][build-url]
-[![Contributors][contributors-shield]][contributors-url]
+[![Build Status][build-shield]][https://github.com/curv3ball/snapbot/releases]
+[![Contributors][contributors-shield]][https://github.com/curv3ball/snapbot/graphs/contributors]
 
 <!-- PROJECT LOGO -->
 <br />
