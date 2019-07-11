@@ -21,7 +21,6 @@
 
 <p align="left">
 <br />
-<br />
 The SnapBot project started on June 15th, 2019 as an educational assessment aimed towards teaching users of the iOS application "AutoTouch" how to create advanced scripts for social media platform gain.
 The initial goal of the bot was to be able to send pictures to specific users in an automated fashion, and has turned into a fully functioning Snapchat score booster that has taught many people the ins and outs of automating gestures in a reliable way using AutoTouch.
 </p>
@@ -29,7 +28,7 @@ The initial goal of the bot was to be able to send pictures to specific users in
 <p align="center">
 <br />
 <br />
-<a href="https://github.com/curv3ball/snapbot/releases">∙ Latest Release ∙</a><br />
-<a href="https://github.com/curv3ball/snapbot/issues">∙ Submit Issues ∙</a><br />
-<a href="https://discord.gg/w6sAkQg">∙ Request Features ∙</a>
+<a href="https://github.com/curv3ball/snapbot/releases">Latest Release | </a>
+<a href="https://github.com/curv3ball/snapbot/issues">Submit Issues | </a><br />
+<a href="https://discord.gg/w6sAkQg">Request Features</a>
 <p>
