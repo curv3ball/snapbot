@@ -12,7 +12,7 @@
   <p align="center">
     A fully automated gesture-based bot that accumulates Snapchat score over time
     <br />
-	<small>Requires AutoTouch, jailbroken iDevice, Filza/iFile, WinSCP</small>
+	<small>(Requires AutoTouch, jailbroken iDevice, Filza/iFile, WinSCP)</small>
 	<br />
 	<br />
 	<br />
