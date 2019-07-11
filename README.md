@@ -12,8 +12,6 @@
     <br />
     <br />
     <a href="https://github.com/curv3ball/snapbot">Community Discord</a>
-    ·
-    <a href="https://github.com/curv3ball/snapbot/issues">Request Features</a>
   </p>
 </p>
 
