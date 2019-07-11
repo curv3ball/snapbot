@@ -26,6 +26,15 @@ The SnapBot project started on June 15th, 2019 as an educational assessment aime
 The initial goal of the bot was to be able to send pictures to specific users in an automated fashion, and has turned into a fully functioning Snapchat score booster that has taught many people the ins and outs of automating gestures in a reliable way using AutoTouch.
 </p>
 
+<p align="center">
+<br />
+<br />
+<a href="#">Text</a><br />
+<a href="#">Text</a><br />
+<a href="#">Text</a><br />
+<a href="#">Text</a><br />
+<a href="#">Text</a><br />
+<p>
 
 ### Prerequisites
 
