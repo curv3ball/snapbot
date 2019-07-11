@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The SnapBot project started on August 3rd, 2019 by Curv3#0984 and nachos#8602
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
