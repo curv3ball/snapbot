@@ -20,7 +20,7 @@
 </p>
 
 
-
+<center>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -36,7 +36,7 @@
 * [Acknowledgements](#acknowledgements)
 
 
-
+</center>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
