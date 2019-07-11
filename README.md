@@ -11,9 +11,9 @@
     A fully automated gesture-based bot that accumulates Snapchat score over time
     <br />
     <br />
-    <a href="https://github.com/curv3ball/snapbot">Our Discord</a>
+    <a href="https://github.com/curv3ball/snapbot">Community Discord</a>
     ·
-    <a href="https://github.com/curv3ball/snapbot/issues">Request Feature</a>
+    <a href="https://github.com/curv3ball/snapbot/issues">Request Features</a>
   </p>
 </p>
 
