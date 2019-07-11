@@ -13,8 +13,8 @@
     A fully automated gesture-based bot that accumulates Snapchat score over time
     <br />
 	<br />
-	<br />
 	<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg">
+	<img alt="GitHub" src="https://img.shields.io/github/license/curv3ball/snapbot.svg">
   </p>
 </p>
 
