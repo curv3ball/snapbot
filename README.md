@@ -18,7 +18,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Build Status][build-shield]][build-ul]
+[![Build Status][build-shield]][build-url]
 [![Contributors][contributors-shield]][contributors-url]
 
 <!-- PROJECT LOGO -->
