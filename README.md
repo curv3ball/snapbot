@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-![GitHub All Releases](https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg)
+![GitHub](https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg)
 
 <br />
 <p align="center">
