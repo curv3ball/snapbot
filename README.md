@@ -14,7 +14,6 @@
     <br />
 	<br />
 	<img alt="GitHub" src="https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg">
-	<img alt="GitHub" src="https://img.shields.io/github/license/curv3ball/snapbot.svg">
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/curv3ball/snapbot.svg">
   </p>
 </p>
