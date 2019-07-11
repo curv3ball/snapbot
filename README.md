@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
+<center>
 ![GitHub](https://img.shields.io/github/downloads/curv3ball/snapbot/total.svg)
-
+</center>
 <br />
 <p align="center">
   <a href="https://github.com/curv3ball/snapbot">
