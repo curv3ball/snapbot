@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 
-
+<html>
 <br />
 <p align="center">
   <a href="https://github.com/curv3ball/snapbot">
@@ -12,7 +12,6 @@
   <p align="center">
     A fully automated gesture-based bot that accumulates Snapchat score over time
     <br />
-	<small>(Requires AutoTouch, jailbroken iDevice, Filza/iFile, WinSCP)</small>
 	<br />
 	<br />
 	<br />
@@ -26,7 +25,12 @@
 The SnapBot project started on June 15th, 2019 as an educational assessment aimed towards teaching users of the iOS application "AutoTouch" how to create advanced scripts for social media platform gain.
 The initial goal of the bot was to be able to send pictures to specific users in an automated fashion, and has turned into a fully functioning Snapchat score booster that has taught many people the ins and outs of automating gestures in a reliable way using AutoTouch.
 </p>
-
+<!-- PROJECT LOGO
+<p align="center">
+    <img src="preview.gif" width="400" height="700" />
+</p>
+ -->
+<br />
 <p align="center">
 <br />
 <a href="https://github.com/curv3ball/snapbot/releases">Latest Release </a>•
