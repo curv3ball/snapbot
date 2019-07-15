@@ -33,8 +33,9 @@ The initial goal of the bot was to be able to send pictures to specific users in
 <br />
 <p align="center">
 <br />
-<a href="https://github.com/curv3ball/snapbot/releases">Download Now</a> <br />
-<a href="https://github.com/curv3ball/snapbot/issues">Report Bugs </a> <br />
-<a href="https://discord.gg/w6sAkQg">Request Features</a> <br />
-<a href="https://github.com/curv3ball/snapbot/wiki">Installation Guide</a>
+
+<a href="https://discord.gg/w6sAkQg">Features</a><br />
+<a href="https://github.com/curv3ball/snapbot/wiki">Installation</a>
+<a href="https://github.com/curv3ball/snapbot/issues">Issues</a><br />
+<a href="https://github.com/curv3ball/snapbot/releases">Download</a><br />
 <p>
