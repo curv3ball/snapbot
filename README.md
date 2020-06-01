@@ -3,6 +3,7 @@
 <html>
 <br />
 <p align="center">
+	<p> This project is discontinued and will be continued once undecimus fixes its issues <p> <br>
   <a href="https://github.com/curv3ball/snapbot">
     <img src="https://cdn1.iconfinder.com/data/icons/snapchat-ui-colored-2/48/JD-02-512.png" alt="Logo" width="80" height="80">
   </a>
